@@ -1,0 +1,8 @@
+03.02/main/.terraform/
+27.01/.terraform/
+09.02/.terraform/
+*terraform.tfstate.backup
+*terraform.tfstate
+config.json
+*.pem
+02.03
